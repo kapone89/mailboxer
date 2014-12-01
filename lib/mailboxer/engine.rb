@@ -1,5 +1,5 @@
 # Database foreign keys
-require 'foreigner'
+# require 'foreigner' # removed because of conflict with schema_plus
 require 'carrierwave'
 begin
   require 'sunspot_rails'
